@@ -46,13 +46,6 @@
     <li><a href="https://postgresql.org">PostgreSQL</a></li>
   </ul></details>
 
-# Description
-
-[Live Link](https://dazzling.onrender.com/)
-> You can watch a demo of the video description below.
-
-[Link to Loom.](https://www.loom.com/share/66cbc8d8b51744019ed5888d3ed5a495)
-
 ### Key Features <a name="key-features"></a>
 
 - Registered users will be able to create new category.
@@ -78,10 +71,10 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this [repository](https://github.com/Luchy-B/Hello Rails React.git) to your desired folder:
+Clone this [repository](https://github.com/Luchy-B/hello_rails_react.git) to your desired folder:
 
 ```sh
-  git https://github.com/Luchy-B/Hello Rails React.git
+  git https://github.com/Luchy-B/hello_rails_react.git
   cd Hello Rails React
 ```
 
@@ -148,7 +141,7 @@ Run tests with:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Luchy-B/Hello Rails React.git).
+Feel free to check the [issues page](https://github.com/Luchy-B/hello_rails_react.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +157,7 @@ If you like this project, please leave a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I want to appreciate [Georgoire Vella](https://www.behance.net/gregoirevella), who is the source of the inspiration for the UI of the application. I thank Microverse for the opportunity to learn.
+I want to appreciate Microverse for the opportunity to learn.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
