@@ -84,6 +84,7 @@ Install Dependencies with:
 
 ```sh
   bundle install
+  npm install
 ```
 
 create database in your postgresql with:
@@ -98,6 +99,7 @@ Run migration with:
 
 ```sh
   rails db:migrate
+  rails assets:precompile
 ```
 
 ### Usage

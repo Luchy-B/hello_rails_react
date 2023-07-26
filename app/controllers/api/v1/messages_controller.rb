@@ -3,8 +3,8 @@ module Api
     # Handles API requests for messages
     class MessagesController < ApplicationController
       def index
-        @messages = Message.all
-        render json: @messages, status: :ok
+        @message = Message.all.order("RANDOM()").first
+        render json: @message, status: :ok
       end
     end
   end
